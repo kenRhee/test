@@ -6,7 +6,9 @@
 ###### 제목
 
 * * *
+
 ![실습캡쳐](./dasd.png)
+
 * * *
 
 - 청강대lms : <https://lms.ck.ac.kr/>
